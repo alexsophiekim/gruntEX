@@ -1,0 +1,11 @@
+@import 'variables';
+@import 'global';
+
+body{
+  background-color: $bg-colour;
+}
+
+h1{
+  color: $text-colour;
+  margin: 10px;
+}

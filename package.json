@@ -1,0 +1,37 @@
+{
+  "name": "gruntex",
+  "version": "1.0.0",
+  "description": "Grunt example",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexsophiekim/gruntEX.git"
+  },
+  "keywords": [
+    "grunt",
+    "js",
+    "html",
+    "javascript"
+  ],
+  "author": "Sophie Kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexsophiekim/gruntEX/issues"
+  },
+  "homepage": "https://github.com/alexsophiekim/gruntEX#readme",
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-contrib-csslint": "^2.0.0",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-contrib-jshint": "^2.1.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify-es": "^3.3.0",
+    "grunt-contrib-watch": "^1.1.0"
+  },
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
